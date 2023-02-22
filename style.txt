@@ -1,0 +1,24 @@
+ <style>
+      *{
+            font-family: Calibri;
+            font-size: 16px;
+        }
+        th,td{
+          height: 25px;
+          width: 300px;
+          text-align: center;
+        }
+        th {
+          background-color: #486AAE;
+          color: #ffffff;
+          text-align: center;
+        }
+        table,
+        td,
+        th {
+      
+          border: 2px solid black;
+          border-collapse: collapse;
+      
+        }
+    </style>

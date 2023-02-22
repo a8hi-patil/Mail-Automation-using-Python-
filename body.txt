@@ -1,0 +1,11 @@
+<p> Dear Team, <br/> <br/>
+Geometry Conformance Index GCI comprising of DVA and DMU assessment is a mandatory core requirement and is now a <strong>PLM system driven hard check for DR3 release.</strong><br/><br/>
+
+This is to bring the necessary attention to current status of applicability selection & GCI in system, for programs with scale higher than the threshold value of <strong> &#8805; 23451.</strong><br/><br/>
+
+Below is the gate wise and VC wise summary, to take necessary actions as prescribed in the guidelines below. Please refer details in the attached MIS for more information.<br/><br/>
+</p>
+<br/>
+
+
+
